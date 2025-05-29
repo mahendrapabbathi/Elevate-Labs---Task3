@@ -39,6 +39,6 @@ Body:
   "author": "Updated Author"
 }
 
-# Delete a Book
+## Delete a Book
 
 DELETE /books/:id
